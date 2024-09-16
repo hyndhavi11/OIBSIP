@@ -1,2 +1,2 @@
 # OIBSIP
-All tasks of oasis infobyte
+this was my article
